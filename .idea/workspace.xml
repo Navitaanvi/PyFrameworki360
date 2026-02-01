@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0376fade-f47b-4a0d-800d-14fc99aa83d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PyFrameworki360.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/constants/Constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/loginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/idrive/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/common_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/logger_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="38sRUaiwwxUKbKxpPl24pgKmxyB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.test.tests.idrive.test_idrive_login.test_idrive_neagtive.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests for src.test.tests.idrive.test_idrive_login.test_idrive_neagtive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyFrameworki360" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.tests.idrive.test_idrive_login.test_idrive_neagtive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for src.test.tests.idrive.test_idrive_login.test_idrive_neagtive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0376fade-f47b-4a0d-800d-14fc99aa83d7" name="Changes" comment="" />
+      <created>1769586308530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769586308530</updated>
+    </task>
+    <servers />
+  </component>
+</project>
