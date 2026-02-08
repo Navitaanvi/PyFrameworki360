@@ -4,31 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0376fade-f47b-4a0d-800d-14fc99aa83d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PyFrameworki360.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/constants/Constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/loginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/idrive/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/common_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/logger_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/utils.py" afterDir="false" />
+    <list default="true" id="0376fade-f47b-4a0d-800d-14fc99aa83d7" name="Changes" comment="i360_Framework">
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/dashBoardPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_dashboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/excel_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/pageObjects/idrive360/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/utils/logger_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/utils/logger_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Navitaanvi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Navitaanvi/PyFrameworki360.git&quot;,
+    &quot;accountId&quot;: &quot;5061c6c0-e92e-408b-a217-00e3855b0d4f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -59,14 +57,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.test.tests.idrive.test_idrive_dashboard.test_dashboard_idrive_positive.executor": "Run",
     "Python tests.Python tests for src.test.tests.idrive.test_idrive_login.test_idrive_neagtive.executor": "Run",
+    "Python tests.Python tests in test_idrive_dashboard.py.executor": "Run",
+    "Python tests.Python tests in test_idrive_login.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyFrameworki360/src/test/resources"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\navit\PycharmProjects\PyFrameworki360\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for src.test.tests.idrive.test_idrive_dashboard.test_dashboard_idrive_positive">
+    <configuration name="Python tests for src.test.tests.idrive.test_idrive_dashboard.test_dashboard_idrive_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyFrameworki360" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.tests.idrive.test_idrive_dashboard.test_dashboard_idrive_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for src.test.tests.idrive.test_idrive_login.test_idrive_neagtive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyFrameworki360" />
       <option name="ENV_FILES" value="" />
@@ -82,8 +104,41 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_idrive_dashboard.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyFrameworki360" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/tests/idrive/test_idrive_dashboard.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_idrive_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyFrameworki360" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/tests/idrive/test_idrive_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for src.test.tests.idrive.test_idrive_dashboard.test_dashboard_idrive_positive" />
+        <item itemvalue="Python tests.Python tests in test_idrive_dashboard.py" />
+        <item itemvalue="Python tests.Python tests in test_idrive_login.py" />
         <item itemvalue="Python tests.Python tests for src.test.tests.idrive.test_idrive_login.test_idrive_neagtive" />
       </list>
     </recent_temporary>
@@ -103,6 +158,19 @@
       <option name="presentableId" value="Default" />
       <updated>1769586308530</updated>
     </task>
+    <task id="LOCAL-00001" summary="i360_Framework">
+      <option name="closed" value="true" />
+      <created>1769930525860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769930525862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="i360_Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="i360_Framework" />
   </component>
 </project>
