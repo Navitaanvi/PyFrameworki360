@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0376fade-f47b-4a0d-800d-14fc99aa83d7" name="Changes" comment="i360_Framework">
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/dashBoardPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/excel_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/pageObjects/idrive360/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/idrive360/loginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tests/idrive/test_idrive_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/utils/logger_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/utils/logger_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769930525862</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="i360_Framework">
+      <option name="closed" value="true" />
+      <created>1770523103656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770523103656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
